@@ -15,4 +15,4 @@ var fb = '';
 	}
 
 	else { console.log(i); }
-};
+}
